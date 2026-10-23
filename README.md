@@ -528,6 +528,3 @@ This repository is provided for educational and defensive security purposes. It 
 
 Users are responsible for obtaining authorization, protecting audit evidence, validating findings, and following applicable organizational policies and legal requirements.
 
-## License
-
-Add a `LICENSE` file before publishing this repository. Choose a license that matches how you want others to use, modify, and redistribute the project.
